@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ftena
-- 👀 I’m interested in fantasy books, RPGs, videogames and programming (of course)
+- 👀 I’m interested in fantasy books, TTRPGs, videogames and programming (of course)
 - 🌱 I’m currently learning progamming languages related to Machine Learning and web development
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me: www.tarod.net
